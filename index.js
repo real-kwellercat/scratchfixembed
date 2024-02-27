@@ -67,8 +67,9 @@ app.get("/u/:username", async (req, res) => {
     </head>
     <body>
         <h1>${username}'s Scratch Profile</h1>
+        <p>profile image:</p>
         <img src="${thumbnailUrl}" alt="${metaTags.title}">
-        <h2>Username: ${username}</h2>
+        <h2>Visit their profile @ <a href="https://scratch.mit.edu/users/${username}/">https://scratch.mit.edu/users/${username}/</a></h2>
     </body>
     </html>
 `;
