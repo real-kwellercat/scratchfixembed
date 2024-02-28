@@ -1,10 +1,13 @@
-# Node.js template
+# ScratchFixEmbed
 
-This is a Node.js project.
+A real-kwellercat project.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
+## How it works:
 
-## Resources
+We scrape meta tags, and for the profile picture we scrape a XPath.
 
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+## Check it out LIVE!
+
+Send a message on discord or twitter, and use this format: https://scratchfixembed-real-kwellercat.koyeb.app/u/iusebako
+
+### featured on my portfolio, https://iusedtodev.web.app/
